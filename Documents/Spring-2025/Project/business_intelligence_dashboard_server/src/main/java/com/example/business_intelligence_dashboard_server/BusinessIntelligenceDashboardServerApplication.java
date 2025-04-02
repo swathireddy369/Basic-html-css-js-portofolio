@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BusinessIntelligenceDashboardServerApplication {
 
 	public static void main(String[] args) {
+		System.out.println("hiii");
 		SpringApplication.run(BusinessIntelligenceDashboardServerApplication.class, args);
 	}
 
